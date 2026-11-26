@@ -1,0 +1,16 @@
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\bin\Debug\net10.0-windows\HttpClientApp.exe
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\bin\Debug\net10.0-windows\HttpClientApp.deps.json
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\bin\Debug\net10.0-windows\HttpClientApp.runtimeconfig.json
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\bin\Debug\net10.0-windows\HttpClientApp.dll
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\bin\Debug\net10.0-windows\HttpClientApp.pdb
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClientApp.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClientApp.AssemblyInfo.cs
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClientApp.sourcelink.json
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClientApp.dll
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\refint\HttpClientApp.dll
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClientApp.pdb
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClientApp.genruntimeconfig.cache
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\ref\HttpClientApp.dll
+C:\Users\Александр\Desktop\NetworkProgrammingLab_net10\HttpClientApp\obj\Debug\net10.0-windows\HttpClie.5ED212B5.Up2Date
